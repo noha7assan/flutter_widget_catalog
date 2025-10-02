@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AnimatedCrossFade",
+    "description": "Fade between two widgets with animation.",
+    "example": "Toggle between two containers with different colors."
+  },
+  {
+    "name": "DraggableScrollableSheet",
+    "description": "A scrollable sheet that can be dragged.",
+    "example": "Bottom sheet with a list of items."
+  },
+  {
+    "name": "ClipPath",
+    "description": "Clip widgets using custom shapes.",
+    "example": "Triangle-shaped container using a custom clipper."
+  }
+]
